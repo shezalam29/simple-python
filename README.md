@@ -1,3 +1,3 @@
 # simple-python-projects
  
-# References used: Dr. Katherine St. John's Notes 
+References used: Dr. Katherine St. John's Notes 
